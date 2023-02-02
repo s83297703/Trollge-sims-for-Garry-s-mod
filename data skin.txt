@@ -1,7 +1,7 @@
 { "ADS":
     {
   
-       "cpa_image":"yandex",
+      "cpa_image":"yandex",
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
@@ -26,8 +26,14 @@
       "native_yandex":"R-M-2144379-2",
       "interstitial_yandex":"R-M-2144379-3",
       "rewarde_yandex":"R-M-2144379-4",
+        
+        
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
-      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+      
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
@@ -117,6 +123,15 @@
       "commentNumbers": " 3343 COMMENTS",
       "downloadNumbers": "4414 DOWNLOADS",
       "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+     
+    },
+    {
+      "imageUrl": "https://freeimghost.net/i/yHbcc",
+      "title": "Mod Pack 7",
+      "likeNumbers": "2722 LIKES",
+      "commentNumbers": " 3533 COMMENTS",
+      "downloadNumbers": "4144 DOWNLOADS",
+      "description": "TO Download this Mod Game Please Click In The Buton Bellow"
        
     }
   ], "Apps": [
